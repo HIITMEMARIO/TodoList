@@ -132,4 +132,3 @@ function Card({ id, title, detail, deleteHandler, doneHandler, isDone }) {
 }
 
 export default App;
-//
